@@ -1,8 +1,8 @@
 # Technique de détection laser
 
 ## Laser Arduino
-![image laser Arduino](assets/images
-/Diode-laser.png)
+
+![image laser Arduino](assets/images/Diode-laser.png)
 
 
 
