@@ -1,4 +1,4 @@
-# Technique de détection laser
+# Détection laser
 
 ## Laser Arduino
 
