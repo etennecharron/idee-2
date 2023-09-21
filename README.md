@@ -6,7 +6,20 @@
 
 ### code nécessaire 
 >      a faire lololol
+>      #define LaserIn   4
+>      #define LaserOut  5
+>      
+>      bool EtatInt=false;
+>
+>      void setup() {
+>      pinMode(LaserIn, INPUT);
+>      pinMode(LaserOut, OUTPUT);
+>      }  
 
+>      void loop() {
+>         EtatInt=digitalRead(LaserIn);
+>         digitalWrite(LaserOut,EtatInt);
+>       } 
 
 #### Utilité
 Connectable à Max, envoie un boul true/false.
