@@ -15,8 +15,8 @@
 
 
 ### Utilité
-Connectable à Max
-
+- Connectable à Max
+- [détection de présence](https://ledisrupteurdimensionnel.com/arduino/creer-une-alarme-avec-le-module-ky-008-une-photoresistance-et-un-buzzer/) 
 ![image laser Arduino](assets/images/Diode-laser.png)
 
 #### référence
