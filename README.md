@@ -17,8 +17,10 @@ void setup() {
 
 void loop() {
   EtatInt=digitalRead(LaserIn);
-  digitalWrite(LaserOut,EtatInt);
-} `
+  dig
+`
+ italWrite(LaserOut,EtatInt);
+} 
 ![image laser Arduino](assets/images/Diode-laser.png)
 
 
