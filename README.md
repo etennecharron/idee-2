@@ -1,3 +1,36 @@
 # Technique de détection laser
 
-idée pour projet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### référence
+- ![Pointeur laser Arduino](https://www.electronique-mixte.fr/projet-pointeur-laser-avec-arduino/)
