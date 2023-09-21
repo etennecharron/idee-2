@@ -8,9 +8,8 @@
 > a faire lololol
 
 
-#### Connectable à Max
-
-envoie un boul true/false
+#### Utilité
+Connectable à Max, envoie un boul true/false.
 
 ![image laser Arduino](assets/images/Diode-laser.png)
 
