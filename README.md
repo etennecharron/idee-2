@@ -15,14 +15,13 @@
 >        pinMode(LaserIn, INPUT);
 >        pinMode(LaserOut, OUTPUT);
 >      }  
-
 >      void loop() {
 >         EtatInt=digitalRead(LaserIn);
 >         digitalWrite(LaserOut,EtatInt);
 >       } 
 
 #### Utilité
-Connectable à Max, envoie un boul true/false.
+Connectable à Max
 
 ![image laser Arduino](assets/images/Diode-laser.png)
 
