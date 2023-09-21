@@ -2,7 +2,7 @@
 ![image de atom light](assets/images/atom_light_connectique.png)
 
 ### Utilité
-utilisé un object X pour blocker la lumière.
+utilisé un object X pour blocker la lumière et activer fonction Y.
 
 #### référence
 
