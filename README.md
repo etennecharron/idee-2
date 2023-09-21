@@ -1,10 +1,7 @@
 # Détection laser
+[Laser Arduino](https://www.electronique-mixte.fr/projet-pointeur-laser-avec-arduino/)
 
-## [Laser Arduino](https://www.electronique-mixte.fr/projet-pointeur-laser-avec-arduino/)
-
-
-
-### code nécessaire 
+## code nécessaire 
 
 >      #define LaserIn   4
 >      #define LaserOut  5
@@ -20,7 +17,7 @@
 >         digitalWrite(LaserOut,EtatInt);
 >       } 
 
-#### Utilité
+### Utilité
 Connectable à Max
 
 ![image laser Arduino](assets/images/Diode-laser.png)
