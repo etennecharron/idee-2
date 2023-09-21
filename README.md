@@ -7,6 +7,11 @@
 ### code nécessaire 
 > a faire lololol
 
+
+#### Connectable à Max
+
+envoie un boul true/false
+
 ![image laser Arduino](assets/images/Diode-laser.png)
 
 
