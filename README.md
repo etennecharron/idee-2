@@ -7,20 +7,17 @@
 ### code nécessaire 
 ` #define LaserIn   4
 #define LaserOut  5
-
-bool EtatInt=false;
-
-void setup() {
+ bool EtatInt=false; 
+void setup() { 
   pinMode(LaserIn, INPUT);
-  pinMode(LaserOut, OUTPUT);
-}
-
+  pinMode(LaserOut, OUTPUT); 
+} 
 void loop() {
   EtatInt=digitalRead(LaserIn);
-  dig
-`
+  dig 
  italWrite(LaserOut,EtatInt);
 } 
+`
 ![image laser Arduino](assets/images/Diode-laser.png)
 
 
