@@ -1,6 +1,6 @@
 # Détection laser
 
-## Laser Arduino
+## [Laser Arduino](https://www.electronique-mixte.fr/projet-pointeur-laser-avec-arduino/)
 
 
 
@@ -24,38 +24,6 @@
 Connectable à Max
 
 ![image laser Arduino](assets/images/Diode-laser.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #### référence
 - [Site Arduino Pointeur laser Arduino](https://www.electronique-mixte.fr/projet-pointeur-laser-avec-arduino/)
